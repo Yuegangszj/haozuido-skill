@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "好嘴到skill"
+  short_description: "生成好嘴到鱼皮花生15秒带货视频提示词与口播文案。"
+  default_prompt: "Use $haozuido-skill to create a 15-second product video prompt and voiceover for 好嘴到鱼皮花生."
